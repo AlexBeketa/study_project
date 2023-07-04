@@ -4,5 +4,8 @@ user_var_3 = int(input('Введите третье число'))
 
 summ = var_1 + user_var_2
 
+def greetings():
+  print('Hello world')
 
+greetings()
 print(f'Сумма введенных чисел равна: {summ}')
