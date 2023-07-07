@@ -1,6 +1,7 @@
 var_1 = int(input('Введите первое число: '))
 user_var_2 = int(input('Введите второе число: '))
 user_var_3 = float(input('Ведите число с плавающей запятой: '))
+user_var_4 = int(input('Введите четвертое число: '))
 
 
 def greetings():
